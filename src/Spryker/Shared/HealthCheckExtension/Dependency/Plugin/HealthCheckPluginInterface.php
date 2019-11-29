@@ -5,7 +5,7 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace Spryker\Service\HealthCheckExtension\Dependency\Plugin;
+namespace Spryker\Shared\HealthCheckExtension\Dependency\Plugin;
 
 use Generated\Shared\Transfer\HealthCheckServiceResponseTransfer;
 
